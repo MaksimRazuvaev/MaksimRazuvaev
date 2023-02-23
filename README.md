@@ -3,6 +3,7 @@
 - 🌱 I’m a student at the University of Washington developer bootcamp
 - 💞️ I’m looking for an opportunity to contribute to the project with Javascript coding
 - 📫 How to reach me robustmaximus@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maksim-razuvaev/
 
 <!---
 MaksimRazuvaev/MaksimRazuvaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
