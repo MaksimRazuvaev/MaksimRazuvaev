@@ -1,7 +1,7 @@
 - 👋 Hi, My name is @MaksimRazuvaev
 - 👀 I’m interested in developing my skills and getting knowledge in computer technologies and web application development
-- 🌱 I’m a student at the University of Washington developer bootcamp
-- 💞️ I’m looking for an opportunity to contribute to the project with Javascript coding
+- 🌱 I graduated from University of Washington developer bootcamp in 2023
+- 💞️ I’m looking for an job opportunity to contribute to the project with my skils API, front-end, and back-end Javascript coding
 - 📫 How to reach me robustmaximus@gmail.com
 - LinkedIn: https://www.linkedin.com/in/maksim-razuvaev/
 
